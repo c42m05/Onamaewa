@@ -1,6 +1,6 @@
 # Onamaewa - Batch Asset Renamer for Lens Studio
 
-![Lens Studio](https://images.ctfassets.net/ub38vssza5h3/7FynBv68WKAHYYAe7XQhlk/dfa0ebd5e13c3bdd5b0f34345e65170f/LS.png =100x)
+<img src="https://images.ctfassets.net/ub38vssza5h3/7FynBv68WKAHYYAe7XQhlk/dfa0ebd5e13c3bdd5b0f34345e65170f/LS.png" width="100" height="100" alt="Lens Studio">
 
 A batch renaming tool for Lens Studio that helps you maintain consistent naming conventions across your project assets.
 
