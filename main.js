@@ -3,7 +3,7 @@
 // @ts-nocheck
 
 import * as Ui from "LensStudio:Ui";
-import GuiService from "LensStudio:GuiService";
+import CoreService from "LensStudio:CoreService";
 // import * as FileSystem from "LensStudio:FileSystem";
 
 const PREFIX_MAP = {
@@ -84,7 +84,7 @@ const KEYWORD_MAP = {
     Vfx: ["VFXAsset"],
 };
 
-export class Onamaewa extends GuiService {
+export class Onamaewa extends CoreService {
     static descriptor() {
         return {
             id: "com.c4205m.onamaewa",
